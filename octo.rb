@@ -1,5 +1,6 @@
 require 'json'
 require 'mongoid'
+require 'pry'
 # Load path and gems/bundler
 $LOAD_PATH << File.expand_path(File.dirname(__FILE__))
 root = File.expand_path(File.dirname(__FILE__))
